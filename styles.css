@@ -18,13 +18,12 @@
 	font-style:italic;
 }
 #test-2{
-	
 	margin:20px;
+	margin-inline:0px;
 	padding:10px;
 	border:1px solid white;
 	background:white;
-	font-size:10px
-	
+	font-size:10px;
 }
 #test-2>p{
 	padding:0px;
